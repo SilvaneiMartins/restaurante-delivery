@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164161245602",
+    "project_id": "restaurant-food-4aef3",
+    "storage_bucket": "restaurant-food-4aef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164161245602:android:55cddc60aab53e27f922fb",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qSNpO4VV8CqSFgYki8ckP__M2dVY2os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
